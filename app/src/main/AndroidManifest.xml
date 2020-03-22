@@ -19,7 +19,7 @@
         android:parentActivityName=".MainActivity"/>
         <meta-data android:name="android.support.PARENT_ACTIVITY"
             android:value=".MainActivity"/>
-        <activity android:name=".AjoutPersonActivity" android:label="Page d'affichage des personnes"
+        <activity android:name=".AjoutPersonActivity" android:label="Page d'ajout des personnes"
             android:parentActivityName=".MainActivity"/>
         <meta-data android:name="android.support.PARENT_ACTIVITY"
             android:value=".MainActivity"/>
